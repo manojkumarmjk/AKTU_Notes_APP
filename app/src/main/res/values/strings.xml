@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AKTU Notes App</string>
+    <string name="logo">logo</string>
+    <string name="home">HOME</string>
+    <string name="notes">NOTES</string>
+    <string name="question_bank">QUESTION BANK</string>
+    <string name="syllabus">SYLLABUS</string>
+    <string name="previous_years">PREVIOUS YEARS</string>
+    <string name="contact_us">CONTACT US</string>
+    <string name="quantum">QUANTUM</string>
+    <string name="todo">TODO</string>
+    <string name="thanks_for_using">Thanks For Using. The Content is Available After Next Updates on 25th October 2021</string>
+    <string name="dbms">DBMS</string>
+    <string name="compiler_design">Compiler Design</string>
+    <string name="of_algorithm">of Algorithm</string>
+    <string name="design_and_analysis">Design and Analysis</string>
+    <string name="computer_graphics">Computer Graphics</string>
+    <string name="human_computer">Human Computer</string>
+    <string name="graphics">Graphics</string>
+    <string name="interface_name">Interface</string>
+    <string name="dbms_previous_year">DBMS Previous Year</string>
+    <string name="daa_previous_year">DAA Previous Year</string>
+    <string name="compiler_design_previous_year">Compiler Design Previous Year</string>
+    <string name="computer_graphics_previous_year">Computer Graphics Previous Year</string>
+    <string name="hci_previous_year">HCI Previous Year</string>
+    <string name="questionbank">Questionbank</string>
+</resources>

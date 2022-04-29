@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout-v21/activity_home.xml" value="0.16302083333333334" />
+        <entry key="app/src/main/res/layout/activity_algo.xml" value="0.12" />
+        <entry key="app/src/main/res/layout/activity_compiler.xml" value="0.16302083333333334" />
+        <entry key="app/src/main/res/layout/activity_computer_graphics.xml" value="0.15" />
+        <entry key="app/src/main/res/layout/activity_dbms.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_human_interface.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_notes.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_notes_web.xml" value="0.16302083333333334" />
+        <entry key="app/src/main/res/layout/activity_previous_year.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_quantum.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_questionbank.xml" value="0.16302083333333334" />
+        <entry key="app/src/main/res/layout/activity_syllabus.xml" value="0.18" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="app/src/main/res/xml/network_security_config.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
